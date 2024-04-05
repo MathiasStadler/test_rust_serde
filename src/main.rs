@@ -1,4 +1,6 @@
-// "Import" anything public in the parser module
+/*
+"Import" anything public in the parser module
+*/
 pub mod parser;
 
 fn main() {
